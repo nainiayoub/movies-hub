@@ -1,0 +1,52 @@
+@charset "UTF-8";
+img{
+
+}
+
+
+
+body{
+   	background-image: url("http://www.ests.uca.ma/wp-content/uploads/2019/07/bg2019.png");
+	background-position: left top;
+	background-size: auto;
+	background-repeat: repeat;
+	background-attachment: scroll;
+  }
+
+#divs{
+	
+	
+}
+
+a{
+	text-decoration: none;
+}
+
+.logo{
+	font-family: monospace;
+	font-size: 45px;
+	
+}
+
+footer{
+    margin-top: 50px;
+    height: 180px;
+    text-align: center;
+    background-color: #222;
+}
+footer h1{
+    padding-top: 20px;
+    color: #fff;
+}
+
+.copyright{
+    padding-top: 30px;
+    font-weight: bold;
+    color: #777;
+}
+
+th, td{
+	text-align: center;
+}
+
+

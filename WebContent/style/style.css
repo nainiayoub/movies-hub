@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+   	background-image: url("http://www.ests.uca.ma/wp-content/uploads/2019/07/bg2019.png");
+	background-position: left top;
+	background-size: auto;
+	background-repeat: repeat;
+	background-attachment: scroll;
+  }
+  
+#panel-heading{
+	background-image: url('http://www.ests.uca.ma/wp-content/uploads/2019/07/ARR.png'); 
+    padding: 20px;
+    color: #fff; 
+    font-family: Roboto; 
+    font-size: 3em;
+}
